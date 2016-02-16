@@ -39,6 +39,9 @@ def data_plot_display(xinfo=data_prep1()[0], yinfo=data_prep1()[1]):
     print 'Mean x:  ' + str(np.mean(xinfo))
     print 'Mean y:  ' + str(np.mean(yinfo))
     plt.plot(xinfo, yinfo, 'bo')
+    plt.title('Unspecified Plot Data')
+    plt.xlabel('x-axis data')
+    plt.ylabel('y-axis data')
     plt.show()
 
 def test_other_file1(filename='testerfile.dat'):
