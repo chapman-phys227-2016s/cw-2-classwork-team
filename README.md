@@ -1,8 +1,8 @@
 # PHYS227 CW 2
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Michael Seaman, Taylor Patti, Austin Ayers, Chinmai Raman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-2-YOURTEAM.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-2-YOURTEAM)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-2-classwork-team.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-2-classwork-team)
 
 **Due date:** 2016/02/16
 
@@ -19,7 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```cw2.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Michael - Good for learning about plotting and more numpy functions.
 
 ## Honor Pledge
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name(s)\>_
+Michael Seaman
