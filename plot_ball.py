@@ -23,9 +23,9 @@ def test_f():
     #test the initial condition at time = 0.
     assert f(0, 10) == 0.0
     #test at time = 2, rounding the result to 2 decimal places.
-    assert round(f(2, 10), 2) == 0.4
+    assert round(f(2, 10), 2) == 0.38
     #test for decimal value of t, rounding the result to 4 decimal places.
-    assert round(f(1.5, 10), 4) == 3.975
+    assert round(f(1.5, 10), 2) == 3.96
     #test the end point for t, rounding the result to 3 decimal places.
     assert round(f(20 / g, 10), 3) == 0.0
 
